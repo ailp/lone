@@ -19,7 +19,7 @@ Astro 博客主题。标题明朝、正文角哥、白纸。浅色 / 深色。
 ## 快速开始
 
 ```bash
-git clone https://github.com/aiduet/lone.git
+git clone https://github.com/bluecli/lone.git
 cd lone
 npm install
 npm run dev
@@ -32,7 +32,7 @@ Node 22+。
 ```json
 {
   "dependencies": {
-    "lone": "github:aiduet/lone"
+    "lone": "github:bluecli/lone"
   }
 }
 ```
